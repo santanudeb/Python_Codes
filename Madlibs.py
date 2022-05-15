@@ -1,4 +1,4 @@
-''' silly madlibs'''
+''' silly madlibs '''
 
 adjective = input("pick a silly adjective : ")
 verb1 = input("pick a verb you love : ")
