@@ -1,0 +1,5 @@
+I am writing something
+something meaningless
+and going to read it
+from python and play
+with it. Bye now.
